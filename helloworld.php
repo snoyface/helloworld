@@ -9,7 +9,7 @@
 <body>
 
 	<?php 
-	echo 'Hello World! You are visiting ';
+	echo 'Hello World! You are visiting *drull roll* ';
 	echo $_SERVER['SERVER_NAME']; 
 	?>
 	
